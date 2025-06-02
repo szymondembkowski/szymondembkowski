@@ -46,7 +46,6 @@ Users can explore different coffee beans, learn optimal brewing methods, and cus
 
 - Land my first job as a **Java developer**
 - Publish at least 2 fully functional projects
-- Contribute to open source
 - Master testing & clean architecture
 
 ---
