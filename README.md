@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name/Nickname]
+# 👋 Hi there! I'm Szymon
 
 I'm an aspiring full-stack developer focusing on Java backend and modern frontend technologies.
 Eager to grow my skills in writing maintainable and well-structured code, building scalable systems, and learning through real projects.
