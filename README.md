@@ -3,6 +3,8 @@
 I'm an aspiring full-stack developer focusing on Java backend and modern frontend technologies.
 Eager to grow my skills in writing maintainable and well-structured code, building scalable systems, and learning through real projects.
 
+I'm currently working as a **game tester**, which helps me develop attention to detail and strong problem-solving skills — qualities I bring to my journey as a developer.
+
 ---
 
 ## 🛠 Tech Stack & Tools
