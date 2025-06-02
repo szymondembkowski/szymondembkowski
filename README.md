@@ -19,7 +19,7 @@ Eager to grow my skills in writing maintainable and well-structured code, buildi
 
 ## 🚧 Projects I'm Working On
 
-### 🕷️ [Spidershop](https://github.com/yourusername/spidershop)  
+### 🕷️ [Spidershop](https://github.com/szymondembkowski/spider-shop-rest)  
 An online store for tarantulas – built with Spring Boot backend and Angular frontend, secured with JWT.  
 Includes product filtering, validation, custom exceptions, Swagger docs, and more.
 
