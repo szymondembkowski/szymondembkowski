@@ -54,6 +54,6 @@ Users can explore different coffee beans, learn optimal brewing methods, and cus
 
 ## 🎸 Interests & Fun Facts
 
-I’m passionate about **heavy music**, **punk** and **alternative** genres.  
-I’m fascinated by **tarantulas** (they're amazing creatures!).  
+I’m passionate about **heavy music**, **punk** and **alternative** genres.
+I’m fascinated by **tarantulas** and overall exotic animals.
 Also, I enjoy brewing and savoring **filter coffee**, especially pour-over methods.
